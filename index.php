@@ -11,7 +11,7 @@
 								"Welcome to my personal website. <br /> My name is David Rozas Domingo. I am a free software enthusiastic, and I am currently getting specialized in the development 
 								of web applications using <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> as a framework. I have recently joined the <a href=\"http://cress.soc.surrey.ac.uk\" target=\"_blank\">CRESS</a> 
 								(Centre for Research in Social Simulation) team at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK). 
-								<br />Some of my interest areas are distributed systems programming, CSCW, collaborative learning or socially intelligent information systems.
+								<br />Some of my areas of interest are distributed systems programming, CSCW, collaborative learning or socially intelligent information systems.
 								<br /> If you want to contact me, you can send me an e-mail to <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>",
 								"Breve presentación",
 								"Bienvenido a mi página personal<br /> Me llamo David Rozas Domingo. Me apasiona el software libre y actualmente me estoy especializando en el desarrollo de 
