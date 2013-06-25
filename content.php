@@ -167,15 +167,22 @@ function print_footer()
 		
 		</div> <!-- end container -->
 		
-		<script type=\"text/javascript\">
-		var gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");
-		document.write(unescape(\"%3Cscript src=\'\" + gaJsHost + \"google-analytics.com/ga.js\' type=\'text/javascript\'%3E%3C/script%3E\"));
-		</script>
-		<script type=\"text/javascript\">
-		var pageTracker = _gat._getTracker(\"UA-1211616-4\");
-		pageTracker._trackPageview();
-		</script>
-		
+        <!-- Piwik -->
+        <script type=\"text/javascript\"> 
+          var _paq = _paq || [];
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u=((\"https:\" == document.location.protocol) ? \"https\" : \"http\") + \"://davidrozas.com/piwik//\";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', 1]);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+            g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        
+        </script>
+        <noscript><p><img src=\"http://davidrozas.com/piwik/piwik.php?idsite=1\" style=\"border:0\" alt=\"\" /></p></noscript>
+        <!-- End Piwik Code -->	
 		
 		</body>
 		
