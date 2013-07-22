@@ -9,14 +9,14 @@
 	$items = array(		array(
 								"A brief presentation", 
 								"Welcome to my personal website. <br /> My name is David Rozas Domingo. I am a free software enthusiast, and I am currently getting specialized in the development 
-								of web applications using <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> as a framework. I have recently joined the <a href=\"http://cress.soc.surrey.ac.uk\" target=\"_blank\">CRESS</a> 
+								of web applications using <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> as a framework. I have recently joined the <a href=\"http://cress.soc.surrey.ac.uk/web/people/researchers/71-david-rozas\" target=\"_blank\">CRESS</a> 
 								(Centre for Research in Social Simulation) team at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK). 
 								<br />Some of my areas of interest are distributed systems programming, CSCW, collaborative learning or socially intelligent information systems.
 								<br /> If you want to contact me, you can send me an e-mail to <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>",
 								"Breve presentación",
 								"Bienvenido a mi página personal<br /> Me llamo David Rozas Domingo. Me apasiona el software libre y actualmente me estoy especializando en el desarrollo de 
 								aplicaciones web utilizando <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a>.
-								Acabo de unirme al equipo de <a href=\"http://www.wikisaber.es/\" target=\"_blank\">CRESS</a> (Centre for Research in Social Simulation) en la <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">Universidad de Surrey</a> (Guildford, Reino Unido).
+								Acabo de unirme al equipo de <a href=\"http://cress.soc.surrey.ac.uk/web/people/researchers/71-david-rozas\" target=\"_blank\">CRESS</a> (Centre for Research in Social Simulation) en la <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">Universidad de Surrey</a> (Guildford, Reino Unido).
 								<br />Algunas de mis áreas de interés son la programación de sistemas distribuidos, CSCW, el aprendizaje colaborativo o los sistemas de información inteligentes aplicados a sociología.
 								<br /> Si quieres contactarme, puede enviarme un correo a <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>"),
 						array(
