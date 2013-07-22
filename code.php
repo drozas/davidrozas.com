@@ -8,13 +8,13 @@
 	//drozas: This will be in a db or at least a file
 	$items = array(		array(
 								"Code", 
-								"I am planning to upload all the code I have been working in during my studies under a GPL license. 
-								<br /> For the moment you can download the code I developed for my thesis work:
+								"You can find most of the code I have worked with at my <a href=\"https://github.com/drozas/\" target=\"_blank\">GitHub profile</a>. 
+								<br /> On the other hand, you can find the code that I originally developed for my Master thesis and my Bachelor dissertation at sourceforge.net:
 								<br />- <a href=\"http://sourceforge.net/projects/astra-project/\" target=\"_blank\">ASTRA</a> (contribution).
 								<br />- <a href=\"http://sourceforge.net/projects/gturnos/\" target=\"_blank\">gTurnos</a>.",
 								"Código",
-								"Estoy planeando subir todo el código que he realizado durante mis estudios bajo una licencia GPL. 
-								<br /> De momento puedes descargar el código que he desarrollado para mis PFCs:
+								"En mi <a href=\"https://github.com/drozas/\" target=\"_blank\">perfil de GitHub</a> puedes encontrar gran parte del código con el que he trabajado.
+								<br /> Por otro lado, puedes encontrar el código de los proyectos que realicé como parte de mis Proyectos de Fin de Carrera en sourcerforget.net:
 								<br />- <a href=\"http://sourceforge.net/projects/astra-project/\" target=\"_blank\">ASTRA</a> (contribución).
 								<br />- <a href=\"http://sourceforge.net/projects/gturnos/\" target=\"_blank\">gTurnos</a>.")
 					);
