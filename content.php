@@ -40,13 +40,13 @@ function print_header($lang)
 	echo "	</div>
 			
 			<div id=\"header\">
-			<h1>drozas</h1>";
+			<h1>drozas@www:~$</h1>";
 	echo "<h2>";
 	/*if (isset($lang)&& $lang!=null && $lang=="es")
 		echo utf8_decode("Página personal");
 	else
 		echo "Personal website";*/
-	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Página personal");}else{echo "Personal website";};
+	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Página personal de David Rozas");}else{echo "David Rozas' Personal website";};
 	echo "</h2>
 			<br />
 			<hr />
