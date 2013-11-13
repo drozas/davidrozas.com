@@ -8,10 +8,11 @@
 	//drozas: This will be in a db or at least a file
 	$items = array(		array(
 								"A brief presentation", 
-								"Welcome to my personal website. <br /> My name is David Rozas Domingo. I am a free software enthusiast, and I am currently getting specialized in the development 
-								of web applications using <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> as a framework. I have recently joined the <a href=\"http://cress.soc.surrey.ac.uk/web/people/researchers/71-david-rozas\" target=\"_blank\">CRESS</a> 
-								(Centre for Research in Social Simulation) team at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK). 
-								<br />Some of my areas of interest are distributed systems programming, CSCW, collaborative learning or socially intelligent information systems.
+								"Welcome to my personal website. <br /> My name is David Rozas Domingo. I am a free software enthusiast, currently studying a PhD under the supervision of Professor <a href=\"http://cress.soc.surrey.ac.uk/web/people/director-cress\" target=\"_blank\">Nigel Gilbert</a>
+	                            and Dr. <a href=\"http://www.surrey.ac.uk/sociology/people/paul_hodkinson/\" target=\"_blank\">Paul Hodkinson</a> at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK). 
+								<br />Some of my areas of interest are FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production) and socially intelligent information systems.
+	                            <br />My current research consists of analyzing the <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> community from a sociological perspective in order to extract insights related to the dynamics, group decision making procedures,
+	                            motivations to contribute and mechanisms employed for the economic sustainability of this community.
 								<br /> If you want to contact me, you can send me an e-mail to <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>",
 								"Breve presentación",
 								"Bienvenido a mi página personal<br /> Me llamo David Rozas Domingo. Me apasiona el software libre y actualmente me estoy especializando en el desarrollo de 
@@ -21,7 +22,8 @@
 								<br /> Si quieres contactarme, puede enviarme un correo a <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>"),
 						array(
 								"Projects",
-								"Some of the projects I have been involved are:
+								"Some of the projects I am (or have been) involved are:
+								<br />- <a href=\"http://www.p2pvalue.eu/\" target=\"_blank\">P2PValue</a>: it is a project which will foster the CBPP phenomenon by providing a techno-social software platform specifically designed to facilitate the creation of resilient and sustainable CBPP communities.
 								<br />- <a href=\"http://www.qlectives.eu/\" target=\"_blank\">QLectives</a>: it is a project bringing together top social modelers, peer-to-peer engineers and physicists to design and deploy next generation self-organising socially intelligent information systems.
 								<br />- <a href=\"http://www.informe-espana.es/\" target=\"_blank\">" . utf8_decode("Informe España") . "</a>: it is a digital platform whose main objective consists of promoting a serious dialogue between all social actors enabling communication and understanding amongst them, and creating common grounds for social consensus.
 								<br />- <a href=\"http://www.wisdem.org/\" target=\"_blank\">Wisdem</a>: it is a global network in which people affected by dementia, families, caregivers and professionals can share their experiences, methods and practice with others around the world, drawing together individual efforts to improve the good of the whole.
@@ -33,7 +35,7 @@
 								<br />- <a href=\"http://www.alternativa3.com/\" target=\"_blank\">Alternativa 3</a>: it is a cooperative society that since 1992 has lived and worked for Fair Trade."
 								,
 								"Proyectos",
-								"Algunos de los proyectos en los que he participado son:
+								"Algunos de los proyectos en los que participo o he participado son:
 																<br />- <a href=\"http://www.qlectives.eu/\" target=\"_blank\">QLectives</a>: es un proyecto que une los esfuerzos de creadores de modelos sociales, ingenieros P2P y físicos para diseñar y llevar a cabo una nueva generación de sistemas de información inteligentes aplicados a la sociología.
 								<br />- <a href=\"http://www.informe-espana.es/\" target=\"_blank\">Informe España</a>:  es una plataforma digital con el objetivo principal de promover el diálogo entre diversos actores sociales habilitando canales de comunicación que acerquen al consenso.
 								<br />- <a href=\"http://www.wisdem.org/\" target=\"_blank\">Wisdem</a>: es una red global en la que personas afectadas por demencias, sus familiares y prestigiosos profesionales del área pueden compartir sus experiencias, métodos y prácticas.
