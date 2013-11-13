@@ -7,7 +7,7 @@
 
 	//drozas: This will be in a db or at least a file
 	$items = array(		array(
-								"Thesis work", 
+								"Dissertations (MSc Computer Science / BSc Computer Science)", 
 								"- \"Development and integration of an awareness applications manager into ASTRA\".<br />
 								- [<a href=\"pub/Rozas2009d.pdf\" target=\"_blank\" onclick=\"javascript: pageTracker._trackPageview('/downloads/astra-thesis');\">Rozas2009d</a>]: document in English with an abstract translation into Spanish.<br />
 								ASTRA (Awareness Services and Systems - Towards Theory and Realization)
@@ -25,7 +25,7 @@
 								gTurnos always provides compact lists and, as in queue, those users that register first have higher priority." 
 
 								,
-								"Proyectos de Fin de Carrera",
+								"Proyectos de Fin de Carrera (Ingeniería en Informática / Ingeniería Técnica en Informática de Sistemas)",
 								"- \"Desarrollo e integración de un gestor de aplicaciones \"awareness\" para la plataforma ASTRA\".<br />
 								- [<a href=\"pub/Rozas2009d.pdf\" target=\"_blank\" onclick=\"javascript: pageTracker._trackPageview('/downloads/astra-thesis');\">Rozas2009d</a>]: documento en inglés, con una traducción del resumen en español.<br />
 								
