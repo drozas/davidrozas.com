@@ -15,7 +15,7 @@ function print_head()
 	echo "<html xmlns=\"http://www.w3.org/1999/xhtml\">";
 	echo "<head>";
 	echo "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />";
-	echo "<title>drozas: personal website</title>";
+	echo "<title>drozas@www:~$ - David Rozas' Personal website</title>";
 	echo "<link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\" />";
 	echo "<link href=\"favicon.ico\" rel=\"icon\" type=\"image/x-icon\" />";
 	echo "</head>";
