@@ -70,7 +70,7 @@ function print_menu($lang)
 	echo			"</a></li>
 					<li><a href=\"thesis.php\">";
 
-	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("PFCs");}else{echo "Thesis work";};
+	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("PFCs");}else{echo "Dissertations";};
 	
 	
 	echo 			"</a></li>
