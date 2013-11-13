@@ -1,6 +1,6 @@
 <?php
 $news = array (
-					array("13th-Nov-13", "Updated presentation and projects sections", "13-11-13", "Actualizadas las secciones de presentación y proyectos"),
+					array("13th-Nov-13", "Updated presentation and projects sections.", "13-11-13", "Actualizadas las secciones de presentación y proyectos."),
 					array("13th-Oct-12", "Main page updated.", "13-10-12", "Actualizada página principal."),
 					array("22nd-Feb-10", "Academic information updated.", "22-02-10", "Información académica actualizada."),
 					//array("25th-Feb-09", "Redesigned as a dynamic website", "25-02-09", "Rediseñada como web dinámica"),
