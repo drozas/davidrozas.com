@@ -9,14 +9,14 @@
 								"A brief presentation", 
 								"Welcome to my personal website. My name is David Rozas Domingo. I am a free software enthusiast, currently studying a PhD under the supervision of Professor <a href=\"http://cress.soc.surrey.ac.uk/web/people/director-cress\" target=\"_blank\">Nigel Gilbert</a>
 	                            and Dr. <a href=\"http://www.surrey.ac.uk/sociology/people/paul_hodkinson/\" target=\"_blank\">Paul Hodkinson</a> at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK). 
-								Some of my areas of interest are FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production) or socially intelligent information systems.
+								Some of my areas of interest are FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production), social computing or CSCW (Computer Supported Cooperative Work).
 	                            <br />My current research consists of analysing the <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> community from a sociological perspective in order to extract insights related to the dynamics, group decision making procedures,
 	                            motivations to contribute and mechanisms employed for the economic sustainability of this community.
 								<br /> If you want to contact me, you can send me an e-mail to <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>",
 								"Breve presentación",
 								"Bienvenido a mi página personal. Me llamo David Rozas Domingo. Me apasiona el software libre y actualmente estoy estudiando un Doctorado bajo la supervisión del Profesor <a href=\"http://cress.soc.surrey.ac.uk/web/people/director-cress\" target=\"_blank\">Nigel Gilbert</a>
 	                            y el Dr. <a href=\"http://www.surrey.ac.uk/sociology/people/paul_hodkinson/\" target=\"_blank\">Paul Hodkinson</a> en la <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">Universidad de Surrey</a> (Guildford, Reino Unido). 
-								Algunas de mis áreas de interés son FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production) o los sistemas de información inteligentes aplicados a sociología.
+								Algunas de mis áreas de interés son FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production), la informática social o CSCW (Computer Supported Cooperative Work).
 								<br />Mi investigación actual consiste en el análisis de la comunidad de <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> desde una perspectiva sociológica, con el objetivo de conocer las dinámicas, procesos de decisión colectivos,
 	                            motivaciones para realizar contribuciones, así como los mecanismos que permiten la sostenibilidad económica de esta comunidad.
 	                            <br /> Si quieres contactarme, puede enviarme un correo a <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>"),
