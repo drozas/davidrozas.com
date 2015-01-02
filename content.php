@@ -76,24 +76,18 @@ function print_menu($lang)
 				<ul>
 					<li><a href=\"index.php\">";
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Principal");}else{echo "Home";};
-	
-		/*drozas: New section*/
 	echo			"</a></li>
-					<li><a href=\"thesis.php\">";
+					<li><a href=\"publications.php\">";
 
-	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("PFCs");}else{echo "Dissertations";};
+	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Publicaciones");}else{echo "Publications";};
+	echo			"</a></li>
+					<li><a href=\"publications.php\">";
 	
-	
+	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Proyectos");}else{echo "Projects";};
 	echo 			"</a></li>
 					<li><a href=\"cv.php\">CV</a></li>
 					<li><a href=\"code.php\">";
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Código");}else{echo "Code";};					
-
-	/*drozas: This section is going to disappear
-	echo			"</a></li>
-					<li><a href=\"blog.php\">";
-
-	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Mi blog");}else{echo "My blog";};*/
 
 	echo 			"</a></li>
 					<li><a href=\"pgp.php\">PGP</a></li>
