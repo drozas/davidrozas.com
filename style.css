@@ -43,6 +43,12 @@ html {
 	width:100%;
 	padding-top:0px;
 }
+
+#header a{
+  color: inherit;
+  text-decoration: none;
+}
+
 .spacer {
 	width:100%;
 	height:15px;

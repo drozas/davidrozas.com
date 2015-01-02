@@ -40,7 +40,7 @@ function print_header($lang)
 	echo "	</div>
 			
 			<div id=\"header\">
-			<h1>drozas@www:~$</h1>";
+			<h1><a href=\"http://www.davidrozas.com\">drozas@www:~$</a></h1>";
 	echo "<h2>";
 	/*if (isset($lang)&& $lang!=null && $lang=="es")
 		echo utf8_decode("Página personal");
