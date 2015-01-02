@@ -166,7 +166,9 @@ function print_footer()
 		//<p class=\"left\">| <a href=\"http://jigsaw.w3.org/css-validator/\" target=\"_blank\">CSS</a> | <a href=\"http://validator.w3.org/check?uri=referer\" target=\"_blank\">XHTML 1.1</a> |</p>
 		"<p class=\"right\">2009 - <a href=\"mailto:david.rozas@gmail.com\">David Rozas</a>. 
 		CSS based on an Open Source Web Design by <a href = \"http://www.oswd.org/user/profile/id/8572\" target=\"_blank\">Matt Hollis</a>.<br />
-		The contents of this website are under a <a href=\"http://creativecommons.org/licenses/by/2.5/es/deed.en\" target=\"_blank\">Creative Commons</a> license. </p>
+		The contents of this website are licensed under a <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International</a> except if otherwise noted.
+		The source code is licensed under a <a href=\"http://www.gnu.org/licenses/gpl.html\" rel=\"license\"> GPLv3 License</a>
+        and can <a href=\"https://github.com/drozas/davidrozas.com\" rel=\"github-repo\">be checkout from Github</a>.</p>
 		
 		<p>&nbsp;</p>
 		</div> <!-- end footer -->
