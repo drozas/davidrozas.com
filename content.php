@@ -81,7 +81,7 @@ function print_menu($lang)
 
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Publicaciones");}else{echo "Publications";};
 	echo			"</a></li>
-					<li><a href=\"publications.php\">";
+					<li><a href=\"projects.php\">";
 	
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Proyectos");}else{echo "Projects";};
 	echo 			"</a></li>
