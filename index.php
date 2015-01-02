@@ -14,7 +14,7 @@
 	                            motivations to contribute and mechanisms employed for the economic sustainability of this community.
 								<br /> If you want to contact me, you can send me an e-mail to <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>",
 								"Breve presentación",
-								"<img src=\"img/david_rozas_thumbnail_rc2.jpg\" id=\"profile-pic\">Bienvenido a mi página personal. Me llamo David Rozas Domingo. Me apasiona el software libre y actualmente estoy estudiando un Doctorado bajo la supervisión del Profesor <a href=\"http://cress.soc.surrey.ac.uk/web/people/director-cress\" target=\"_blank\">Nigel Gilbert</a>
+								"<img src=\"img/david_rozas_thumbnail_be1.jpg\" id=\"profile-pic\">Bienvenido a mi página personal. Me llamo David Rozas Domingo. Me apasiona el software libre y actualmente estoy estudiando un Doctorado bajo la supervisión del Profesor <a href=\"http://cress.soc.surrey.ac.uk/web/people/director-cress\" target=\"_blank\">Nigel Gilbert</a>
 	                            y el Dr. <a href=\"http://www.surrey.ac.uk/sociology/people/paul_hodkinson/\" target=\"_blank\">Paul Hodkinson</a> en la <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">Universidad de Surrey</a> (Guildford, Reino Unido). 
 								Algunas de mis áreas de interés son FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production), la informática social o CSCW (Computer Supported Cooperative Work).
 								<br />Mi investigación actual consiste en el análisis de la comunidad de <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> desde una perspectiva sociológica, con el objetivo de conocer las dinámicas, procesos de decisión colectivos,

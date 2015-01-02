@@ -1,8 +1,9 @@
 <?php
 $news = array (
-					array("13th-Nov-13", "Updated presentation and projects sections.", "13-11-13", "Actualizadas las secciones de presentación y proyectos."),
-					array("13th-Oct-12", "Main page updated.", "13-10-12", "Actualizada página principal."),
-					array("22nd-Feb-10", "Academic information updated.", "22-02-10", "Información académica actualizada."),
+                    array("3rd, Nov. 2015", "Updated presentation and added 'Projects' and 'Publications' sections.", "03-01-2015", "Actualizadas las secciones de presentación y añadidas las secciones de 'Proyectos' y 'Publicaciones'"),
+					array("13th, Nov. 2013", "Updated presentation and projects sections.", "13-11-2013", "Actualizadas las secciones de presentación y proyectos."),
+					array("13th, Oct. 2012", "Main page updated.", "13-10-2012", "Actualizada página principal."),
+					//array("22nd-Feb-10", "Academic information updated.", "22-02-10", "Información académica actualizada."),
 					//array("25th-Feb-09", "Redesigned as a dynamic website", "25-02-09", "Rediseñada como web dinámica"),
 					//array("19th-Feb-09", "Some new areas added", "19-02-09", "Añadidas nuevas áreas"),
 				);
