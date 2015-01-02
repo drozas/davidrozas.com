@@ -41,7 +41,7 @@ html {
 }
 #header {
 	width:100%;
-	padding-top:15px;
+	padding-top:0px;
 }
 .spacer {
 	width:100%;
@@ -192,4 +192,15 @@ h3 {
 	float:left;
 	font-size:100%;
 	margin-top:5px;
+}
+
+.share-buttons{
+    left: 490px;
+    list-style: none outside none;
+    position: relative;
+    top: -33px;
+}
+
+.share-buttons li{
+    display: inline;
 }

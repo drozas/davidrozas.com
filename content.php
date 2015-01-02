@@ -47,10 +47,22 @@ function print_header($lang)
 	else
 		echo "Personal website";*/
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Página personal de David Rozas");}else{echo "David Rozas' Personal website";};
+	echo "
+    <ul class=\"share-buttons\">
+	  <li><a href=\"https://twitter.com/drozas\" target=\"_blank\" title =\"Twitter profile\"><img src=\"img/social_media_icons/png/twitter.png\"></a></li>
+      <li><a href=\"https://uk.linkedin.com/in/drozas\" target=\"_blank\" title =\"LinkedIn profile\"><img src=\"img/social_media_icons/png/linkedin.png\"></a></li>
+	  <li><a href=\"https://twitter.com/drozas\" target=\"_blank\" title =\"Drupal profile\"><img src=\"img/social_media_icons/png/drupal.png\"></a></li>
+      <li><a href=\"https://uk.linkedin.com/in/drozas\" target=\"_blank\" title =\"GitHub profile\"><img src=\"img/social_media_icons/png/github.png\"></a></li>
+	  <li><a href=\"https://twitter.com/drozas\" target=\"_blank\" title =\"Academia profile\"><img src=\"img/social_media_icons/png/academia.png\"></a></li>
+      <li><a href=\"https://uk.linkedin.com/in/drozas\" target=\"_blank\" title =\"ResearchGate profile\"><img src=\"img/social_media_icons/png/research_gate.png\"></a></li>
+	  <li><a href=\"https://twitter.com/drozas\" target=\"_blank\" title =\"University of Surrey profile\"><img src=\"img/social_media_icons/png/surrey.png\"></a></li>
+      <li><a href=\"https://twitter.com/drozas\" target=\"_blank\" title =\"E-mail address\"><img src=\"img/social_media_icons/png/mail.png\"></a></li>  
+	</ul>
+    ";
 	echo "</h2>
 			<br />
 			<hr />
-			
+		
 			</div> <!-- end header -->
 	";
 }
