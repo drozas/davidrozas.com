@@ -195,7 +195,7 @@ h3 {
 }
 
 .share-buttons{
-    left: 490px;
+    margin-left: 484px;
     list-style: none outside none;
     position: relative;
     top: -33px;
