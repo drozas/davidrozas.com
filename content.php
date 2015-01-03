@@ -81,14 +81,11 @@ function print_menu($lang)
 	
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Proyectos");}else{echo "Projects";};
 	echo 			"</a></li>
-					<li><a href=\"cv.php\">CV</a></li>
 					<li><a href=\"code.php\">";
-	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Código");}else{echo "Code";};					
-
+	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Código fuente & laboratorio");}else{echo "Source code & lab";};					
 	echo 			"</a></li>
+					<li><a href=\"cv.php\">CV</a></li>
 					<li><a href=\"pgp.php\">PGP</a></li>
-				
-					
 				</ul>
 			<p>&nbsp;</p>";
 			
