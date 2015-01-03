@@ -21,12 +21,14 @@
 	                            ),
 	        array(
 								"Academic information",
-								"- I took a Foundational Computer Science Course in JEE platform at <a href=\"http://www.infosys.com/\" target=\"_blank\">Infosys' Global Education Centre</a> (Mysore, India) in 2010.<br />
-								- I got a Computer Engineering degree (5 years) at <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, Spain) in 2009.<br />
+								" - I am currently studying a PhD in Sociology at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK): October 2013 - October 2016 (expected).<br />
+	                            - I took a Foundational Computer Science Course in JEE platform at <a href=\"http://www.infosys.com/\" target=\"_blank\">Infosys' Global Education Centre</a> (Mysore, India) in 2010.<br />
+								- I got a Computer Engineering degree (equivalent to a MSc in Computer Science) at <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, Spain) in 2009.<br />
 								- I was exchange student at <a href=\"http://www.ntnu.no\" target=\"_blank\">Norges Teknisk-Naturvitenskapelige Universitet</a> (Trondheim, Norway) during the course 2007-2008.<br /> 
-								- I got a Technical Engineering in Computer Systems degree (3 years) in  2007 at <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, Spain).",
+								- I got a Technical Engineering in Computer Systems degree (equivalent to a BSc in Computer Science) in  2007 at <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, Spain).",
 								"Información académica",
-								"- Realicé un curso en la plataforma JEE en el <a href=\"http://www.infosys.com/\" target=\"_blank\">Centro Global Educativo de Infosys</a> (Mysore, India) durante 2010.<br />
+								"- Actualmente estoy estudiando un Doctorado en Sociología en la  <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">Universidad de Surrey</a> (Guildford, Reino Unido): octubre 2013 - octubre 2016 (fecha de finalización prevista).<br />
+	                            - Realicé un curso en la plataforma JEE en el <a href=\"http://www.infosys.com/\" target=\"_blank\">Centro Global Educativo de Infosys</a> (Mysore, India) durante 2010.<br />
 								- Acabé Ingeniería Informática en la  <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, España) en 2009. <br />
 								- Fuí estudiante de intercambio en la <a href=\"http://www.ntnu.no\" target=\"_blank\">Norges Teknisk-Naturvitenskapelige Universitet</a> (Trondheim, Noruega) durante el curso 2007-2008.<br /> 
 								- Acabé Ingeniería Técnica en Informática de Sistemas en 2007, en la <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, España)"),
