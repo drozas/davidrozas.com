@@ -28,9 +28,9 @@
           (Madrid, 20/10/2012).  [<a href=\"publications/patterns_dcspain2012.pdf\">PDF</a>].<br />
   	    <b>Dissertations:</b> <br />
 	    - Rozas, D (2009). Development and integration of an awareness applications manager into ASTRA. Supervised by Montalvo, S. & Divitini M. 
-          (Master's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2009.pdf\">PDF</a>].<br />
+          (Master's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2009.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/tfc\">Source (LaTeX)</a>], [<a href=\"publications/astra_slides.pdf\">Slides (PDF)</a>].<br />
   	    - Rozas, D (2007). gTurnos: " . utf8_decode(módulo) ." gestor del reparto de turnos bajo Moodle. Supervised by Centeno, J. 
-          (Bachelor's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2007.pdf\">PDF</a>].<br />
+          (Bachelor's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2007.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/pfc\">Source (LaTeX)</a>], [<a href=\"publications/gturnos_slides.pdf\">Slides (PDF)</a>]..<br />
 	";
 
 	//drozas: This will be in a db or at least a file
