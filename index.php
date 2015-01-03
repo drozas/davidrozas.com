@@ -7,19 +7,18 @@
 
 	$items = array(		array(
 								"A brief presentation", 
-								"<img src=\"img/david_rozas_thumbnail_be1.jpg\" id=\"profile-pic\">Welcome to my personal website. My name is David Rozas Domingo. I am a free software enthusiast, currently studying a PhD under the supervision of Professor <a href=\"http://cress.soc.surrey.ac.uk/web/people/director-cress\" target=\"_blank\">Nigel Gilbert</a>
-	                            and Dr. <a href=\"http://www.surrey.ac.uk/sociology/people/paul_hodkinson/\" target=\"_blank\">Paul Hodkinson</a> at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK). 
-								Some of my areas of interest are FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production), social computing or CSCW (Computer Supported Cooperative Work).
-	                            <br />My current research consists of analysing the <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> community from a sociological perspective in order to extract insights related to the dynamics, group decision making procedures,
-	                            motivations to contribute and mechanisms employed for the economic sustainability of this community.
-								<br /> If you want to contact me, you can send me an e-mail to <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>",
+								"<img src=\"img/david_rozas_thumbnail_be1.jpg\" id=\"profile-pic\">Welcome to my personal website. My name is David Rozas Domingo. I am a free software enthusiast, currently studying a PhD under the supervision of Professor <a href=\"http://www.surrey.ac.uk/sociology/people/nigel_gilbert/\" target=\"_blank\">Nigel Gilbert</a> and Dr <a href=\"http://www.surrey.ac.uk/sociology/people/paul_hodkinson/\" target=\"_blank\">Paul Hodkinson</a> at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK). 
+                                 My research concerns individual involvement and group dynamics of Commons-Based Peer Production communities, focussing on the development community for Free/Libre Open Source Software <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a>. I am following an ethnographic approach, and using Activity Theory as a theoretical framework. I am also collaborating with the FP7 EU project <a href=\"http://www.p2pvalue.eu\" target=\"_blank\">P2Pvalue</a>, which is funding my studies.
+                                 Some of my areas of interest are FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production), social computing or CSCW (Computer Supported Cooperative Work).
+                                 <br /> My previous research was conducted within the FP7 EU project <a href=\"http://www.qlectives.eu\" target=\"_blank\">QLectives</a> (Quality Collectives) at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a>, and the FP6 EU project <a href=\"http://cordis.europa.eu/project/rcn/80445_en.html\" target=\"_blank\">ASTRA</a> (Awareness Services and Systems - Towards Theory and Realization) at <a href=\"http://www.ntnu.no\" target=\"_blank\">Norges Teknisk-Naturvitenskapelige Universitet</a> (Trondheim, Norway).
+                                 <br /> I previously worked as a Technical lead in several social, educational and cultural projects based on Drupal for the company <a href=\"http://www.educatic.es\" target=\"_blank\">Educatic</a> (Madrid, Spain).",
 								"Breve presentación",
 								"<img src=\"img/david_rozas_thumbnail_be1.jpg\" id=\"profile-pic\">Bienvenido a mi página personal. Me llamo David Rozas Domingo. Me apasiona el software libre y actualmente estoy estudiando un Doctorado bajo la supervisión del Profesor <a href=\"http://cress.soc.surrey.ac.uk/web/people/director-cress\" target=\"_blank\">Nigel Gilbert</a>
 	                            y el Dr. <a href=\"http://www.surrey.ac.uk/sociology/people/paul_hodkinson/\" target=\"_blank\">Paul Hodkinson</a> en la <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">Universidad de Surrey</a> (Guildford, Reino Unido). 
 								Algunas de mis áreas de interés son FLOSS (Free/Libre Open Source Software), CBPP (Commons-Based Peer Production), la informática social o CSCW (Computer Supported Cooperative Work).
 								<br />Mi investigación actual consiste en el análisis de la comunidad de <a href=\"http://drupal.org/\" target=\"_blank\">Drupal</a> desde una perspectiva sociológica, con el objetivo de conocer las dinámicas, procesos de decisión colectivos,
-	                            motivaciones para realizar contribuciones, así como los mecanismos que permiten la sostenibilidad económica de esta comunidad.
-	                            <br /> Si quieres contactarme, puede enviarme un correo a <a href=\"mailto:david.rozas@gmail.com\">david.rozas@gmail.com</a>"),
+	                            motivaciones para realizar contribuciones, así como los mecanismos que permiten la sostenibilidad económica de esta comunidad."
+	                            ),
 	        array(
 								"Academic information",
 								"- I took a Foundational Computer Science Course in JEE platform at <a href=\"http://www.infosys.com/\" target=\"_blank\">Infosys' Global Education Centre</a> (Mysore, India) in 2010.<br />
