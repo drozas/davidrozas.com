@@ -47,8 +47,10 @@ function print_header($lang)
     <ul class=\"share-buttons\">
 	  <li><a href=\"https://twitter.com/drozas\" target=\"_blank\" title =\"Twitter profile\"><img src=\"img/social_media_icons/png/twitter.png\"></a></li>
       <li><a href=\"https://uk.linkedin.com/in/drozas\" target=\"_blank\" title =\"LinkedIn profile\"><img src=\"img/social_media_icons/png/linkedin.png\"></a></li>
+      <li><a href=\"http://www.slideshare.net/drozas\" target=\"_blank\" title =\"Slideshare profile\"><img src=\"img/social_media_icons/png/slideshare.png\"></a></li>
 	  <li><a href=\"https://drupal.org/u/drozas\" target=\"_blank\" title =\"Drupal profile\"><img src=\"img/social_media_icons/png/drupal.png\"></a></li>
       <li><a href=\"https://github.com/drozas\" target=\"_blank\" title =\"GitHub profile\"><img src=\"img/social_media_icons/png/github.png\"></a></li>
+	  <li><a href=\"http://scholar.google.co.uk/citations?user=r5IjkCcAAAAJ\" target=\"_blank\" title =\"Academia profile\"><img src=\"img/social_media_icons/png/gscholar.png\"></a></li>
 	  <li><a href=\"https://surrey.academia.edu/DavidRozas\" target=\"_blank\" title =\"Academia profile\"><img src=\"img/social_media_icons/png/academia.png\"></a></li>
       <li><a href=\"https://www.researchgate.net/profile/David_Rozas\" target=\"_blank\" title =\"ResearchGate profile\"><img src=\"img/social_media_icons/png/research_gate.png\"></a></li>
 	  <li><a href=\"http://www.surrey.ac.uk/sociology/people/phd/david_rozas/\" target=\"_blank\" title =\"University of Surrey profile\"><img src=\"img/social_media_icons/png/surrey.png\"></a></li>
