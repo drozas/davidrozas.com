@@ -32,10 +32,8 @@ function print_header($lang)
 	echo
 			"<a href=\"http://". $_SERVER["SERVER_NAME"] . $_SERVER["PHP_SELF"] . "?set_language=en\">";
 	echo 	"English";
-	//if(isset($lang)&& $lang!=null && $lang=="es"){echo "English";}else{echo utf8_decode("Inglés");} 
 	echo "</a> ";
 	echo "| " . "<a href=\"http://". $_SERVER["SERVER_NAME"] . $_SERVER["PHP_SELF"] . "?set_language=es\">";
-	//if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Español");}else{echo "Spanish";} 
 	echo	utf8_decode("Español");
 	echo		"</a> ";
 	echo "	</div>
@@ -43,10 +41,7 @@ function print_header($lang)
 			<div id=\"header\">
 			<h1><a href=\"http://www.davidrozas.com\">drozas@www:~$</a></h1>";
 	echo "<h2>";
-	/*if (isset($lang)&& $lang!=null && $lang=="es")
-		echo utf8_decode("Página personal");
-	else
-		echo "Personal website";*/
+
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Página personal de David Rozas");}else{echo "David Rozas' Personal website";};
 	echo "
     <ul class=\"share-buttons\">
@@ -157,7 +152,6 @@ function print_form($form)
 function print_footer()
 {
 	
-    //echo "You are watching this page in: " . $_SESSION["lang"];
 	echo "
 		</div> <!-- end main content section -->
 		</div> 
