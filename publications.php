@@ -11,7 +11,7 @@
         - Rozas, D (2014). Drupal as a Commons-Based Peer Production community:
           a sociological perspective. In Proceedings of The International Symposium on
           Open Collaboration (OpenSym '14). ACM, New York, NY, USA, , Pages 36 ,
-          2 pages. DOI=10.1145/2641580.2641624 <a href=\"http://doi.acm.org/10.1145/2641580.2641624\">http://doi.acm.org/10.1145/2641580.2641624</a>.<br />
+          2 pages. DOI=10.1145/2641580.2641624 <a href=\"http://doi.acm.org/10.1145/2641580.2641624\">http://doi.acm.org/10.1145/2641580.2641624</a>. [<a href=\"publications/Rozas2014.pdf\">PDF</a>].<br />
         <b>Abstracts:</b> <br />
 	    - Rozas, D., Gilbert, N. & Hodkinson, P. (2015). Contribution beyond source code in Free/Libre
           Open Source Software: the role of affective labour in the Drupal community (accepted,
@@ -19,18 +19,18 @@
 	    <b>Conference presentations and talks:</b> <br />
 	    - <a href=\"http://www.opensym.org/2014/08/11/opensym-doctoral-symposium-with-keynote-on-a-strange-animal-called-peer-reviewed-publishing/\">Drupal as a Commons-Based Peer Production community:
           a sociological perspective</a>, Doctoral Symposium, OpenSym 2014
-          (Berlin, 26/08/2014).<br />
+          (Berlin, 26/08/2014). [<a href=\"publications/drupal_cbpp_opensym2014.pdf\">PDF</a>].<br />
 	    - <a href=\"http://camp.drupalne.org/session/drupal-case-commons-based-peer-production\">Drupal as a case of Commons-based Peer Production</a>, DrupalCamp North East 2014 
-	      (Sunderland, 25/07/2014).<br />
+	      (Sunderland, 25/07/2014). [<a href=\"publications/drupal_cbpp_dcne2014.pdf\">PDF</a>].<br />
 	    - <a href=\"http://2013.drupalcamplondon.co.uk/session/automating-drupal-development-patterns\">Automating Drupal Development with Patterns: introducing 7.x-2.x</a>, DrupalCamp London 2013
-          (London, 02/03/2013).<br />
+          (London, 02/03/2013). [<a href=\"publications/patterns_dclondon2013.pdf\">PDF</a>].<br />
 	    - <a href=\"http://2012.drupalcamp.es/es/sesiones/automating-drupal-development-patterns-38\">Automating Drupal Development with Patterns</a> (co-presenting with Hao Liao, from the University of Fribourg), DrupalCamp Spain 2012
-          (Madrid, 20/10/2012). <br />
+          (Madrid, 20/10/2012).  [<a href=\"publications/patterns_dcspain2012.pdf\">PDF</a>].<br />
   	    <b>Dissertations:</b> <br />
 	    - Rozas, D (2009). Development and integration of an awareness applications manager into ASTRA. Supervised by Montalvo, S. & Divitini M. 
-          (Master's thesis, Universidad Rey Juan Carlos). <br />
+          (Master's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2009.pdf\">PDF</a>].<br />
   	    - Rozas, D (2007). gTurnos: " . utf8_decode(módulo) ." gestor del reparto de turnos bajo Moodle. Supervised by Centeno, J. 
-          (Bachelor's thesis, Universidad Rey Juan Carlos). <br />
+          (Bachelor's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2007.pdf\">PDF</a>].<br />
 	";
 
 	//drozas: This will be in a db or at least a file
