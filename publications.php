@@ -12,6 +12,10 @@
           a sociological perspective. In Proceedings of The International Symposium on
           Open Collaboration (OpenSym '14). ACM, New York, NY, USA, , Pages 36 ,
           2 pages. DOI=10.1145/2641580.2641624 <a href=\"http://doi.acm.org/10.1145/2641580.2641624\">http://doi.acm.org/10.1145/2641580.2641624</a>.<br />
+        <b>Abstracts:</b> <br />
+	    - Rozas, D., Gilbert, N. & Hodkinson, P. (2015). Contribution beyond source code in Free/Libre
+          Open Source Software: the role of affective labour in the Drupal community (accepted,
+          to be presented on 15/04/2015). In BSA 2015 Annual Conference. British Sociological Association.<br />
 	    <b>Conference presentations and talks:</b> <br />
 	    - <a href=\"http://www.opensym.org/2014/08/11/opensym-doctoral-symposium-with-keynote-on-a-strange-animal-called-peer-reviewed-publishing/\">Drupal as a Commons-Based Peer Production community:
           a sociological perspective</a>, Doctoral Symposium, OpenSym 2014
