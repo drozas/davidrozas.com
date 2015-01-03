@@ -18,7 +18,7 @@
 								<br />- <a href=\"http://sourceforge.net/projects/astra-project/\" target=\"_blank\">ASTRA</a> (contribución).
 								<br />- <a href=\"http://sourceforge.net/projects/gturnos/\" target=\"_blank\">gTurnos</a>."),
 						array(	"Lab",
-								"This is just a set of handy links to testing instances of some of the code I am working with. They are in testing servers and might not work at the moment you visit them! ;-)
+								"This is just a set of handy links to testing instances of some of the code I am working with. The code is deployed in testing servers and might not work at the moment you visit them! ;-)
 								<br />- <a href=\"http://www.davidrozas.com/lab/drupal_planet_archive.php\" target=\"_blank\">Drupal Planet Links Archive</a>: archive of links published at Drupal Planet.
 								<br />- <a href=\"http://elio.surrey.ac.uk/\" target=\"_blank\">Elio</a>: testing server at CRESS, with several QScience instances and other Drupal experimental projects.
 							    <br />- <a href=\"http://patterns.inn.ac/\" target=\"_blank\">Patterns Server@ETHZ</a>: a Patterns server instance running at a Swiss Federal Institute of Technology in Zurich (ETHZ) testing server.",
