@@ -17,7 +17,7 @@
 								<br />- <a href=\"http://www.cvirtual.org/\" target=\"_blank\">Cvirtual.org</a>: it is a website oriented towards psychosocial care for the elderly and uses new technologies and 2.0 Tools to foster user interaction between families, caregivers, health professionals and elderly people.
 								<br />- <a href=\"http://www.wikisaber.es/\" target=\"_blank\">Wikisaber.es</a>: it is an educational portal for teachers, students and parents based on collaborative learning.
 								<br />- <a href=\"http://www.neteduca.pt/\" target=\"_blank\">Neteduca.pt</a>: it is the Portuguese version of Wikisaber based on Drupal.
-								<br />- <a href=\"http://www.astra-project.net/\" target=\"_blank\">ASTRA</a>: it is a project that researches awareness systems and services that are used for social purposes.
+								<br />- <a href=\"http://cordis.europa.eu/project/rcn/80445_en.html\" target=\"_blank\">ASTRA</a>: it is a project that researches awareness systems and services that are used for social purposes.
 								<br />- <a href=\"http://gturnos.sourceforge.net/\" target=\"_blank\">gTurnos</a>: it is a block for Moodle (a free software LMS), which manages the delivery of turns, considering the necessities of teachers and students.
 								<br />- <a href=\"http://www.alternativa3.com/\" target=\"_blank\">Alternativa 3</a>: it is a cooperative society that since 1992 has lived and worked for Fair Trade."
 	        ,
@@ -30,7 +30,7 @@
 								<br />- <a href=\"http://www.cvirtual.org/\" target=\"_blank\">Cvirtual.org</a>: es un espacio de vanguardia dirigido al sector sociosanitario, en el que se apuesta por el desarrollo de nuevos perfiles profesionales de jóvenes cualificados, especializados en el envejecimiento de calidad, la investigación y la atención sociosanitaria.
 								<br />- <a href=\"http://www.wikisaber.es/\" target=\"_blank\">Wikisaber.es</a>: es un portal educativo para estudiantes, padres y profesores fundamentado en la enseñanza y el aprendizaje colaborativos.
 								<br />- <a href=\"http://www.neteduca.pt/\" target=\"_blank\">Neteduca.pt</a>: versión portuguesa de Wikisaber basada en Drupal.
-								<br />- <a href=\"http://www.astra-project.net/\" target=\"_blank\">ASTRA</a>: proyecto que investiga la utilización de sistemas y servicios \"awareness\" para propósitos sociales.
+								<br />- <a href=\"http://cordis.europa.eu/project/rcn/80445_en.html\" target=\"_blank\">ASTRA</a>: proyecto que investiga la utilización de sistemas y servicios \"awareness\" para propósitos sociales.
 								<br />- <a href=\"http://gturnos.sourceforge.net/\" target=\"_blank\">gTurnos</a>: es un bloque para Moodle (un LMS libre) que gestiona el reparto de turnos para exámenes presenciales, generando listas compactas y equilibradas.
 								<br />- <a href=\"http://www.alternativa3.com/\" target=\"_blank\">Alternativa 3</a>: es una sociedad cooperativa basada en la importación, elaboración y distribución de productos ecológicos de Comercio Justo."),
 					);
