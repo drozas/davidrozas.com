@@ -14,7 +14,7 @@
 								<br />- <a href=\"http://sourceforge.net/projects/gturnos/\" target=\"_blank\">gTurnos</a>.",
 								"Código",
 								"En mis perfiles de <a href=\"https://github.com/drozas/\" target=\"_blank\">GitHub</a> y <a href=\"https://drupal.org/user/740628\" target=\"_blank\">Drupal</a> puedes encontrar gran parte del código con el que estoy trabajando o he trabajado.
-								<br /> Por otro lado, puedes encontrar el código de los proyectos que realicé como parte de mis Proyectos de Fin de Carrera en sourcerforget.net:
+								<br /> Por otro lado, puedes encontrar el código de los proyectos que realicé como parte de mis Proyectos de Fin de Carrera en sourceforge.net:
 								<br />- <a href=\"http://sourceforge.net/projects/astra-project/\" target=\"_blank\">ASTRA</a> (contribución).
 								<br />- <a href=\"http://sourceforge.net/projects/gturnos/\" target=\"_blank\">gTurnos</a>."),
 						array(	"Lab",
