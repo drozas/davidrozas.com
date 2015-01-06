@@ -22,6 +22,8 @@
           (Berlin, 26/08/2014). [<a href=\"publications/drupal_cbpp_opensym2014.pdf\">PDF</a>], [<a href=\"publications/drupal_cbpp_opensym2014.odp\">Source (ODP)</a>].<br />
 	    - <a href=\"http://camp.drupalne.org/session/drupal-case-commons-based-peer-production\">Drupal as a case of Commons-based Peer Production</a>, DrupalCamp North East 2014 
 	      (Sunderland, 25/07/2014). [<a href=\"publications/drupal_cbpp_dcne2014.pdf\">PDF</a>], [<a href=\"publications/drupal_cbpp_dcne2014.odp\">Source (ODP)</a>].<br />
+	    - <a href=\"http://www.p2pvalue.eu/blog/12th-march-data-jam-p2pvalue-directory\">Technical details of the P2Pvalue directory</a>, 
+          (P2PValue DataJam, 12/03/2014).  [<a href=\"publications/p2pvalue_directory_techn_presentation.pdf\">PDF</a>], [<a href=\"publications/p2pvalue_directory_techn_presentation.odp\">Source (ODP)</a>].<br />
 	    - <a href=\"http://2013.drupalcamplondon.co.uk/session/automating-drupal-development-patterns\">Automating Drupal Development with Patterns: introducing 7.x-2.x</a>, DrupalCamp London 2013
           (London, 02/03/2013). [<a href=\"publications/patterns_dclondon2013.pdf\">PDF</a>], [<a href=\"publications/patterns_dclondon2013.odp\">Source (ODP)</a>].<br />
 	    - <a href=\"http://2012.drupalcamp.es/es/sesiones/automating-drupal-development-patterns-38\">Automating Drupal Development with Patterns</a> (co-presenting with Hao Liao, from the University of Fribourg), DrupalCamp Spain 2012
