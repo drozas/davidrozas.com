@@ -98,7 +98,7 @@ function print_news($lang)
 	global $news;
 	
 	echo "<h3>";
-	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Novedades");}else{echo "News";} 
+	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Últimas actualizaciones");}else{echo "Latest updates";} 
 	echo"</h3><p class=\"news\">";					
 	foreach ( $news as $key => $n ) 
 	{
