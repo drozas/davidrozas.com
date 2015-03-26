@@ -17,6 +17,8 @@
           Open Source Software: the role of affective labour in the Drupal community (accepted,
           to be presented on 15/04/2015). In BSA 2015 Annual Conference. British Sociological Association.<br />
 	    <b>Conference presentations and talks:</b> <br />
+  	    - Talk is silver, code is gold? Contribution beyond source code in Free/Libre Open Source Software communities, PGR Seminar - School of Social Sciences at University of Surrey 
+          (Guildford, 25/03/2015). [<a href=\"publications/pgr_seminar_15_contribuion_beyond_source_code.pdf\">PDF</a>], [<a href=\"publications/pgr_seminar_15_contribuion_beyond_source_code.odp\">Source (ODP)</a>].<br />
 	    - <a href=\"http://www.opensym.org/2014/08/11/opensym-doctoral-symposium-with-keynote-on-a-strange-animal-called-peer-reviewed-publishing/\">Drupal as a Commons-Based Peer Production community:
           a sociological perspective</a>, Doctoral Symposium, OpenSym 2014
           (Berlin, 26/08/2014). [<a href=\"publications/drupal_cbpp_opensym2014.pdf\">PDF</a>], [<a href=\"publications/drupal_cbpp_opensym2014.odp\">Source (ODP)</a>].<br />
