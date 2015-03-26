@@ -13,9 +13,9 @@
           Open Collaboration (OpenSym '14). ACM, New York, NY, USA, , Pages 36 ,
           2 pages. DOI=10.1145/2641580.2641624 <a href=\"http://doi.acm.org/10.1145/2641580.2641624\">http://doi.acm.org/10.1145/2641580.2641624</a>. [<a href=\"publications/Rozas2014.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/drupal_cbpp_opensym2014\">Source (LaTeX)</a>].<br />
         <b>Abstracts:</b> <br />
-	    - Rozas, D., Gilbert, N. & Hodkinson, P. (2015). Contribution beyond source code in Free/Libre
-          Open Source Software: the role of affective labour in the Drupal community (accepted,
-          to be presented on 15/04/2015). In BSA 2015 Annual Conference. British Sociological Association.<br />
+	    - Rozas, D., Gilbert, N. & Hodkinson, P. (2015). <a href=\"http://www.britsoc.co.uk/media/84184/Programme%20full.pdf?1427305668398\">Contribution beyond source code in Free/Libre
+          Open Source Software: the role of affective labour in the Drupal community</a>. BSA 2015 Annual Conference (pp.73-74). British Sociological Association.
+	      [<a href=\"publications/bsa15_pp73_74.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/bsa_2015\">Source (LaTeX)</a>].<br />
 	    <b>Conference presentations and talks:</b> <br />
   	    - Talk is silver, code is gold? Contribution beyond source code in Free/Libre Open Source Software communities, PGR Seminar - School of Social Sciences at University of Surrey 
           (Guildford, 25/03/2015). [<a href=\"publications/pgr_seminar_15_contribuion_beyond_source_code.pdf\">PDF</a>], [<a href=\"publications/pgr_seminar_15_contribuion_beyond_source_code.odp\">Source (ODP)</a>].<br />
