@@ -7,6 +7,8 @@
 	
 	//drozas: Process publications as a list, and in a single language
 	$pubs = "
+        <b>Full papers:</b> <br />
+        - Rozas, D & Gilbert, N. (2015). <a href=\"http://www.egosnet.org/jart/prj3/egos/main.jart?rel=de&reserve-mode=active&content-id=1392376003637&subtheme_id=1368705967560\">Drupal as a runaway object: conceptualisation of peer production activities through Activity Theory</a> (accepted, to be presented on 03/07/2015). EGOS 2015. European Group for Organizational Studies <br />
         <b>Proceedings:</b> <br />
         - Rozas, D (2014). Drupal as a Commons-Based Peer Production community:
           a sociological perspective. In Proceedings of The International Symposium on
