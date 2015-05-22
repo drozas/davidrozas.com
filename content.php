@@ -76,18 +76,17 @@ function print_menu($lang)
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Principal");}else{echo "Home";};
 	echo			"</a></li>
 					<li><a href=\"publications.php\">";
-
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Publicaciones");}else{echo "Publications";};
 	echo			"</a></li>
+					<li><a href=\"cv.php\">";
+	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Currículum breve");}else{echo "Short CV";};
+	echo			"</a></li>
 					<li><a href=\"projects.php\">";
-	
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Proyectos");}else{echo "Projects";};
 	echo 			"</a></li>
 					<li><a href=\"code.php\">";
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Código fuente & laboratorio");}else{echo "Source code & lab";};					
-	echo 			"</a></li>
-					<li><a href=\"cv.php\">CV</a></li>
-					<li><a href=\"pgp.php\">PGP</a></li>
+	echo 			"<li><a href=\"pgp.php\">PGP</a></li>
 				</ul>
 			<p>&nbsp;</p>";
 			
