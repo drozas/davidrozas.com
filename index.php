@@ -19,7 +19,7 @@
                                 <br /> Anteriormente participé en los proyectos de investigación de la Unión Europea FP7 <a href=\"http://www.qlectives.eu\" target=\"_blank\">QLectives</a> (Quality Collectives) en la <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">Universidad de Surrey</a>, y FP6 <a href=\"http://cordis.europa.eu/project/rcn/80445_en.html\" target=\"_blank\">ASTRA</a> (Awareness Services and Systems - Towards Theory and Realization) en la <a href=\"http://www.ntnu.no\" target=\"_blank\">Norges Teknisk-Naturvitenskapelige Universitet</a> (Trondheim, Noruega).
                                 <br /> Previamente, trabajé como coordinador del área técnica en la empresa <a href=\"http://www.educatic.es\" target=\"_blank\">Educatic</a> (Madrid, España), desarrollando varios proyectos de ámbito social, educativo y cultural basados en Drupal."
 	                            ),
-	        array(
+	        /*array(
 								"Academic information",
 								" - I am currently studying a PhD in Sociology at the <a href=\"https://www.surrey.ac.uk/\" target=\"_blank\">University of Surrey</a> (Guildford, UK): October 2013 - October 2016 (expected).<br />
 	                            - I took a Foundational Computer Science Course in JEE platform at <a href=\"http://www.infosys.com/\" target=\"_blank\">Infosys' Global Education Centre</a> (Mysore, India) in 2010.<br />
@@ -31,7 +31,7 @@
 	                            - Realicé un curso en la plataforma JEE en el <a href=\"http://www.infosys.com/\" target=\"_blank\">Centro Global Educativo de Infosys</a> (Mysore, India) durante 2010.<br />
 								- Acabé Ingeniería Informática en la  <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, España) en 2009. <br />
 								- Fuí estudiante de intercambio en la <a href=\"http://www.ntnu.no\" target=\"_blank\">Norges Teknisk-Naturvitenskapelige Universitet</a> (Trondheim, Noruega) durante el curso 2007-2008.<br /> 
-								- Acabé Ingeniería Técnica en Informática de Sistemas en 2007, en la <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, España)"),
+								- Acabé Ingeniería Técnica en Informática de Sistemas en 2007, en la <a href=\"http://www.urjc.es\" target=\"_blank\">Universidad Rey Juan Carlos</a> (Madrid, España)"),*/
 
 						
 						

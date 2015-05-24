@@ -79,7 +79,7 @@ function print_menu($lang)
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Publicaciones");}else{echo "Publications";};
 	echo			"</a></li>
 					<li><a href=\"cv.php\">";
-	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Currículum breve");}else{echo "Short CV";};
+	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Currículum resumido");}else{echo "Short CV";};
 	echo			"</a></li>
 					<li><a href=\"projects.php\">";
 	if(isset($lang)&& $lang!=null && $lang=="es"){echo utf8_decode("Proyectos");}else{echo "Projects";};
