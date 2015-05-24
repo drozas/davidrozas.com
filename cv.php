@@ -23,31 +23,31 @@
 	    - 2002 ~ 2007: BSc in Computer Science, Universidad Rey Juan Carlos<br />
 	";
 	
-	$rest = "
+	$honors_and_awards = "
 	    	  
 	    <b>Visiting fellowships:</b> <br />
         - 2015: Centro Studi di Etnografia Digitale, University of Milan<br />
 	    
 	    <b>Speaker (academic conferences):</b> <br />
         - Drupal as a runaway object: conceptualisation of peer production activities through Activity Theory (forthcoming). EGOS (European Group for Organizational Studies) 2015 Annual Conference (Athens, 04/07/2015) [PDF], [Source (ODP)]<br />
-        - Contribution beyond source code in Free/Libre Open Source Software: the role of affective labour in the Drupal community. BSA 2015 Annual Conference (Glasgow, 15/04/2015). British Sociological Association. [PDF], [Source (ODP)]<br />
+        - Contribution beyond source code in Free/Libre Open Source Software: the role of affective labour in the Drupal community. BSA 2015 Annual Conference (Glasgow, 15/04/2015). British Sociological Association. [<a href=\"bsa_2015_contribution_beyond_source_code.pdf\">PDF</a>], [<a href=\"bsa_2015_contribution_beyond_source_code.odp\">Source (ODP)</a>]<br />
 	    - <a href=\"http://www.opensym.org/2014/08/11/opensym-doctoral-symposium-with-keynote-on-a-strange-animal-called-peer-reviewed-publishing/\">Drupal as a Commons-Based Peer Production community:
           a sociological perspective</a>, Doctoral Symposium, OpenSym 2014
           (Berlin, 26/08/2014). [<a href=\"publications/drupal_cbpp_opensym2014.pdf\">PDF</a>], [<a href=\"publications/drupal_cbpp_opensym2014.odp\">Source (ODP)</a>]<br />
 	  
 	    <b>Speaker (seminars, unconferences, non-academic events, etc.):</b> <br />
 	    - Talk is silver, code is gold? Contribution beyond source code in Drupal, Drupal Show and Tell - Clarence Centre at London South Bank University
-          (London, 21/05/2015). [<a href=\"publications/pgr_seminar_15_contribuion_beyond_source_code.pdf\">PDF</a>], [<a href=\"publications/pgr_seminar_15_contribuion_beyond_source_code.odp\">Source (ODP)</a>]<br />
+          (London, 21/05/2015). [<a href=\"publications/drupal_ldn_show_and_tell_15.pdf\">PDF</a>], [<a href=\"publications/drupal_ldn_show_and_tell_15.odp\">Source (ODP)</a>]<br />
   	    - Talk is silver, code is gold? Contribution beyond source code in Free/Libre Open Source Software communities, PGR Seminar - School of Social Sciences at University of Surrey
           (Guildford, 25/03/2015). [<a href=\"publications/pgr_seminar_15_contribuion_beyond_source_code.pdf\">PDF</a>], [<a href=\"publications/pgr_seminar_15_contribuion_beyond_source_code.odp\">Source (ODP)</a>]<br />
 	    - <a href=\"http://camp.drupalne.org/session/drupal-case-commons-based-peer-production\">Drupal as a case of Commons-based Peer Production</a>, DrupalCamp North East 2014
 	      (Sunderland, 25/07/2014). [<a href=\"publications/drupal_cbpp_dcne2014.pdf\">PDF</a>], [<a href=\"publications/drupal_cbpp_dcne2014.odp\">Source (ODP)</a>]<br />
 	    - <a href=\"http://www.p2pvalue.eu/blog/12th-march-data-jam-p2pvalue-directory\">Technical details of the P2Pvalue directory</a>,
-          (P2PValue DataJam, 12/03/2014).  [<a href=\"publications/p2pvalue_directory_techn_presentation.pdf\">PDF</a>], [<a href=\"publications/p2pvalue_directory_techn_presentation.odp\">Source (ODP)</a>] [Video]<br />
+          (P2PValue DataJam, 12/03/2014).  [<a href=\"publications/p2pvalue_directory_techn_presentation.pdf\">PDF</a>], [<a href=\"publications/p2pvalue_directory_techn_presentation.odp\">Source (ODP)</a>] [<a href=\"https://youtu.be/IRE7D1CHamQ?t=1h17m34s\" target=\"_blank\">Video</a>]<br />
 	    - <a href=\"http://2013.drupalcamplondon.co.uk/session/automating-drupal-development-patterns\">Automating Drupal Development with Patterns: introducing 7.x-2.x</a>, DrupalCamp London 2013
-          (London, 02/03/2013). [<a href=\"publications/patterns_dclondon2013.pdf\">PDF</a>], [<a href=\"publications/patterns_dclondon2013.odp\">Source (ODP)</a>] [Video]<br />
+          (London, 02/03/2013). [<a href=\"publications/patterns_dclondon2013.pdf\">PDF</a>], [<a href=\"publications/patterns_dclondon2013.odp\">Source (ODP)</a>] [<a href=\"https://www.youtube.com/watch?v=6FvLJTivMgs\" target=\"_blank\">Video</a>]<br />
 	    - <a href=\"http://2012.drupalcamp.es/es/sesiones/automating-drupal-development-patterns-38\">Automating Drupal Development with Patterns</a> (co-presenting with Hao Liao, from the University of Fribourg), DrupalCamp Spain 2012
-          (Madrid, 20/10/2012).  [<a href=\"publications/patterns_dcspain2012.pdf\">PDF</a>], [<a href=\"publications/patterns_dcspain2012.odp\">Source (ODP)</a>] [Video]<br />
+          (Madrid, 20/10/2012).  [<a href=\"publications/patterns_dcspain2012.pdf\">PDF</a>], [<a href=\"publications/patterns_dcspain2012.odp\">Source (ODP)</a>] [<a href=\"https://vimeo.com/61432578\" target=\"_blank\">Video</a>]<br />
     
 	    <b>Awards:</b> <br />
 	    - 2010: Gold Award at \"Computer Science Course in JEE platform - An industry Perspective\", Infosys, Mysore (India)<br />
@@ -55,11 +55,15 @@
 	    - 2007: Erasmus excellence grant, Caja Madrid<br />
 
 	    <b>Media:</b> <br />
-	    - 2015: Interview at Universidad Rey Juan Carlos' Alumni Magazine (pp. 10-15) [Link]<br />
-	    - 2010: Interview in a Spanish TV programme during the participation in the trainee programme at Infosys' Global Education Centre in Mysore (India) [Video 1] [Video 2]<br />
+	    - 2015: Interview at Universidad Rey Juan Carlos' Alumni Magazine (pp. 10-15) [<a href=\"http://www.unipedia.es/urjc/alumni/RevistaN12/\" target=\"_blank\">Link</a>]<br />
+	    - 2010: Interview in a Spanish TV programme during the participation in the trainee programme at Infosys' Global Education Centre in Mysore (India) [<a href=\"https://www.youtube.com/watch?v=VD8kVvoMZ3U\" target=\"_blank\">Video 1</a>] [<a href=\"https://www.youtube.com/watch?v=Uw516Gl86PE\" target=\"_blank\">Video 2</a>]<br />
 
 	    	  	    	  	    	  
 	";
+	
+	$contact = "For a list of academic publication, please visit <a href=\"publications.php\">\"Publications\"</a>. <br />If you need a full version of my CV or any reference letter, please <a href=\"mailto:david.rozas@gmail.com\">send me an e-mail</a>, indicating your preferred document format (.pdf, .odt, .doc, ...) and language (English or Spanish). You can also send me
+				a connection request through <a href=\"http://uk.linkedin.com/in/drozas\" target=\"_blank\">LinkedIn</a>, where I keep an updated version of my CV." ;
+	
 	
 	//drozas: This will be in a db or at least a file
 	$items = array(		array(
@@ -68,10 +72,15 @@
 	    "Currículum resumido", $work_and_education
 	),
     array(
-        "Honors and awards", $rest
+        "Honors and awards", $honors_and_awards
         ,
-        "Honors and awards", $rest
-    ) 
+        "Honors and awards", $honors_and_awards
+    ),
+    array(
+	    "Full CV and further information", $contact
+	    ,
+	    "Full CV and further information", $contact
+    )
 	);
 
 	print_header($_SESSION["lang"]);
