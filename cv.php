@@ -61,7 +61,7 @@
 	    	  	    	  	    	  
 	";
 	
-	$contact = "For a list of academic publication, please visit <a href=\"publications.php\">\"Publications\"</a>. <br />If you need a full version of my CV or any reference letter, please <a href=\"mailto:david.rozas@gmail.com\">send me an e-mail</a>, indicating your preferred document format (.pdf, .odt, .doc, ...) and language (English or Spanish). You can also send me
+	$contact = "For a list of academic publications, please visit <a href=\"publications.php\">\"Publications\"</a>. <br />If you need a full version of my CV or any reference letter, please <a href=\"mailto:david.rozas@gmail.com\">send me an e-mail</a>, indicating your preferred document format (.pdf, .odt, .doc, ...) and language (English or Spanish). You can also send me
 				a connection request through <a href=\"http://uk.linkedin.com/in/drozas\" target=\"_blank\">LinkedIn</a>, where I keep an updated version of my CV." ;
 	
 	
