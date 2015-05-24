@@ -30,7 +30,7 @@
 	    
 	    <b>Speaker (academic conferences):</b> <br />
         - Drupal as a runaway object: conceptualisation of peer production activities through Activity Theory (forthcoming). EGOS (European Group for Organizational Studies) 2015 Annual Conference (Athens, 04/07/2015) [PDF], [Source (ODP)]<br />
-        - Contribution beyond source code in Free/Libre Open Source Software: the role of affective labour in the Drupal community. BSA 2015 Annual Conference (Glasgow, 15/04/2015). British Sociological Association. [<a href=\"bsa_2015_contribution_beyond_source_code.pdf\">PDF</a>], [<a href=\"bsa_2015_contribution_beyond_source_code.odp\">Source (ODP)</a>]<br />
+        - Contribution beyond source code in Free/Libre Open Source Software: the role of affective labour in the Drupal community. BSA 2015 Annual Conference (Glasgow, 15/04/2015). British Sociological Association. [<a href=\"publications/bsa_2015_contribution_beyond_source_code.pdf\">PDF</a>], [<a href=\"publications/bsa_2015_contribution_beyond_source_code.odp\">Source (ODP)</a>]<br />
 	    - <a href=\"http://www.opensym.org/2014/08/11/opensym-doctoral-symposium-with-keynote-on-a-strange-animal-called-peer-reviewed-publishing/\">Drupal as a Commons-Based Peer Production community:
           a sociological perspective</a>, Doctoral Symposium, OpenSym 2014
           (Berlin, 26/08/2014). [<a href=\"publications/drupal_cbpp_opensym2014.pdf\">PDF</a>], [<a href=\"publications/drupal_cbpp_opensym2014.odp\">Source (ODP)</a>]<br />
