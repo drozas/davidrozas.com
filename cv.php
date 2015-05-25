@@ -52,7 +52,7 @@
 	    <b>Awards:</b> <br />
 	    - 2010: Gold Award at \"Computer Science Course in JEE platform - An industry Perspective\", Infosys, Mysore (India)<br />
 	    - 2008: Academic excellence grant, Comunidad de Madrid<br />
-	    - 2007: Erasmus excellence grant, Caja Madrid<br />
+	    - 2007: Erasmus excellence scholarship, Caja Madrid<br />
 
 	    <b>Media:</b> <br />
 	    - 2015: Interview at Universidad Rey Juan Carlos' Alumni Magazine (pp. 10-15) [<a href=\"http://www.unipedia.es/urjc/alumni/RevistaN12/\" target=\"_blank\">Link</a>]<br />
