@@ -8,7 +8,7 @@
 	//drozas: Process publications as a list, and in a single language
 	$pubs = "
         <b>Peer reviewed conference papers, proceedings and abstracts:</b> <br />
-        - Rozas, D & Gilbert, N. (2015). <a href=\"http://www.egosnet.org/jart/prj3/egos/main.jart?rel=de&reserve-mode=active&content-id=1392376003637&subtheme_id=1368705967560\">Drupal as a runaway object: conceptualisation of peer production activities through Activity Theory</a> (accepted, to be presented on 04/07/2015). EGOS 2015. European Group for Organizational Studies <br />
+        - Rozas, D., Gilbert, N. & Hodkinson, P. (2015b). <a href=\"http://www.egosnet.org/jart/prj3/egos/main.jart?rel=de&reserve-mode=active&content-id=1392376003637&subtheme_id=1368705967560\">Drupal as a runaway object: conceptualisation of peer production activities through Activity Theory</a> (accepted, to be presented on 04/07/2015). EGOS 2015. European Group for Organizational Studies <br />
 	    - Rozas, D., Gilbert, N. & Hodkinson, P. (2015). <a href=\"http://www.britsoc.co.uk/media/84184/Programme%20full.pdf?1427305668398\">Contribution beyond source code in Free/Libre
           Open Source Software: the role of affective labour in the Drupal community</a>. BSA 2015 Annual Conference (pp.73-74). British Sociological Association.
 	      [<a href=\"publications/bsa15_pp73_74.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/bsa_2015\">Source (LaTeX)</a>].<br />
