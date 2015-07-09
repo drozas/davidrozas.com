@@ -29,7 +29,7 @@
         - 2015: Centro Studi di Etnografia Digitale, University of Milan<br />
 	    
 	    <b>Speaker (academic conferences):</b> <br />
-        - Drupal as a runaway object: conceptualisation of peer production activities through Activity Theory (forthcoming). EGOS (European Group for Organizational Studies) 2015 Annual Conference (Athens, 04/07/2015) [PDF], [Source (ODP)]<br />
+        - <a href=\"http://www.egosnet.org/jart/prj3/egos/main.jart?rel=de&reserve-mode=active&content-id=1392376003637&subtheme_id=1368705967560\">Drupal as a runaway object: conceptualisation of peer production activities through Activity Theory</a>. EGOS (European Group for Organizational Studies) 2015 Annual Conference (Athens, 04/07/2015) [<a href=\"publications/egos_2015_drupal_runaway_object.pdf\">PDF</a>], [<a href=\"publications/egos_2015_drupal_runaway_object.odp\">Source (ODP)</a>]<br />
         - Contribution beyond source code in Free/Libre Open Source Software: the role of affective labour in the Drupal community. BSA 2015 Annual Conference (Glasgow, 15/04/2015). British Sociological Association. [<a href=\"publications/bsa_2015_contribution_beyond_source_code.pdf\">PDF</a>], [<a href=\"publications/bsa_2015_contribution_beyond_source_code.odp\">Source (ODP)</a>]<br />
 	    - <a href=\"http://www.opensym.org/2014/08/11/opensym-doctoral-symposium-with-keynote-on-a-strange-animal-called-peer-reviewed-publishing/\">Drupal as a Commons-Based Peer Production community:
           a sociological perspective</a>, Doctoral Symposium, OpenSym 2014
@@ -73,9 +73,9 @@
 	    "Currículum resumido", $work_and_education
 	),
     array(
-        "Honors and awards", $honors_and_awards
+        "Honours and awards", $honors_and_awards
         ,
-        "Honors and awards", $honors_and_awards
+        "Honours and awards", $honors_and_awards
     ),
     array(
 	    "Full CV and further information", $contact
