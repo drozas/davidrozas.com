@@ -22,7 +22,9 @@
 	    - Rozas, D (2009). Development and integration of an awareness applications manager into ASTRA. Supervised by Montalvo, S. & Divitini M. 
           (Master's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2009.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/tfc\">Source (LaTeX)</a>], [<a href=\"publications/astra_slides.pdf\">Slides (PDF)</a>].<br />
   	    - Rozas, D (2007). gTurnos: Turns manager under Moodle platform. Supervised by Centeno, J. 
-          (Bachelor's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2007.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/pfc\">Source (LaTeX)</a>], [<a href=\"publications/gturnos_slides.pdf\">Slides (PDF)</a>]..<br />
+          (Bachelor's thesis, Universidad Rey Juan Carlos). [<a href=\"publications/Rozas2007.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/pfc\">Source (LaTeX)</a>], [<a href=\"publications/gturnos_slides.pdf\">Slides (PDF)</a>].<br />
+		  
+		For a list of presentations related to my research in academic and non-academic events, please visit the <a href=\"cv.php\">\"Honours and awards section\"</a> of my Short CV.<br />
 	";
 
 	//drozas: This will be in a db or at least a file
