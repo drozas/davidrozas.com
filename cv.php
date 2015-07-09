@@ -37,8 +37,7 @@
 	  
 	    <b>Speaker (seminars, unconferences, non-academic events, etc.):</b> <br />
 		- Speaker at <a href=\"http://2015.caps-conference.eu\">CAPS annual conference</a>: \"The international event on collective awareness platforms for sustainability and social innovation\"​ (Brussels, 2015) - http://2015.caps-conference.eu/. Intervention in the panel \"The Value of (Digital) Social Innovation: How to Decribe It and How to Support Its Growth\"​; and presenter in the talk \"P2Pvalue Directory: Using a Unique Open Resource for Research and Networking\".
-          (Brussels, 07/07/2015). [<a href=\"publications/drupal_ldn_show_and_tell_15.pdf\">PDF 1</a>], [<a href=\"publications/drupal_ldn_show_and_tell_15.odp\">Source 1(ODP)</a>], [<a href=\"publications/drupal_ldn_show_and_tell_15.pdf\">PDF 2</a>], [<a href=\"publications/drupal_ldn_show_and_tell_15.odp\">Source 2(ODP)</a>]<br />
-  	    
+          (Brussels, 07/07/2015). [<a href=\"publications/caps2015_p2pvalue_social_innovation.pdf\">PDF 1</a>], [<a href=\"publications/caps2015_p2pvalue_social_innovation.odp\">Source 1(ODP)</a>], [<a href=\"publications/caps2015_p2pvalue_dir_technical.pdf\">PDF 2</a>], [<a href=\"publications/caps2015_p2pvalue_dir_technical.odp\">Source 2(ODP)</a>]<br />
 	    - Talk is silver, code is gold? Contribution beyond source code in Drupal, Drupal Show and Tell - Clarence Centre at London South Bank University
           (London, 21/05/2015). [<a href=\"publications/drupal_ldn_show_and_tell_15.pdf\">PDF</a>], [<a href=\"publications/drupal_ldn_show_and_tell_15.odp\">Source (ODP)</a>]<br />
   	    - Talk is silver, code is gold? Contribution beyond source code in Free/Libre Open Source Software communities, PGR Seminar - School of Social Sciences at University of Surrey
