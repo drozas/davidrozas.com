@@ -67,9 +67,11 @@
 	    - 2007: Erasmus excellence scholarship, Caja Madrid<br />
 
 	    <b>Media:</b> <br />
-	    - 2015: Personal interview in Universidad Rey Juan Carlos' Alumni Magazine (pp. 10-15) [<a href=\"http://www.unipedia.es/urjc/alumni/RevistaN12/\" target=\"_blank\">Link</a>]<br />
+	    - 2015:<br />
+			-- Interview about the P2Pvalue project at CORDIS (Community Research and Development Information Service) [<a href=\"http://cordis.europa.eu/news/rcn/123585_en.html\" target=\"_blank\">Link</a>]<br />
+			-- Personal interview in Universidad Rey Juan Carlos' Alumni Magazine (pp. 10-15) [<a href=\"http://www.unipedia.es/urjc/alumni/RevistaN12/\" target=\"_blank\">Link</a>]<br />
 	    - 2014: Article about the CBPP directory in WIRED magazine [<a href=\"http://www.wired.com/2014/03/directory-commons-based-peer-production/\" target=\"_blank\">Link</a>]<br />
-		- 2010: Group interview in a Spanish TV programme during the participation in the trainee programme at Infosys' Global Education Centre in Mysore (India) [<a href=\"https://www.youtube.com/watch?v=VD8kVvoMZ3U\" target=\"_blank\">Video 1</a>] [<a href=\"https://www.youtube.com/watch?v=Uw516Gl86PE\" target=\"_blank\">Video 2</a>]<br />
+			- 2010: Group interview in a Spanish TV programme during the participation in the trainee programme at Infosys' Global Education Centre in Mysore (India) [<a href=\"https://www.youtube.com/watch?v=VD8kVvoMZ3U\" target=\"_blank\">Video 1</a>] [<a href=\"https://www.youtube.com/watch?v=Uw516Gl86PE\" target=\"_blank\">Video 2</a>]<br />
 
 
 	";
