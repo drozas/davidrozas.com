@@ -12,7 +12,7 @@
 		  [<a href=\"publications/egos2015_full_paper_drupal_at.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/egos_2015\">Source (LaTeX)</a>].<br />
 	    - Rozas, D., Gilbert, N. & Hodkinson, P. (2015). <a href=\"http://www.britsoc.co.uk/media/84184/Programme%20full.pdf?1427305668398\">Contribution beyond source code in Free/Libre
           Open Source Software: the role of affective labour in the Drupal community</a>. BSA 2015 Annual Conference (pp.73-74). British Sociological Association.
-	      [<a href=\"publications/bsa15_pp73_74.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/bsa_2015\">Source (LaTeX)</a>].<br />
+	      [<a href=\"publications/bsa15_pp73_74_sel_pages.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/bsa_2015\">Source (LaTeX)</a>].<br />
 	    - Rozas, D (2014). Drupal as a Commons-Based Peer Production community:
           a sociological perspective. In Proceedings of The International Symposium on
           Open Collaboration (OpenSym '14). ACM, New York, NY, USA, , Pages 36 ,
