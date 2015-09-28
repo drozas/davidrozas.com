@@ -7,7 +7,10 @@
 	
 	//drozas: Process publications as a list, and in a single language
 	$pubs = "
-        <b>Peer reviewed conference papers, proceedings and abstracts:</b> <br />
+		<b>Peer-reviewed journal articles:</b> <br />
+        - Rozas, D., & Gilbert, N. (forthcoming). Talk is silver, code is gold? Contribution beyond source code in Free/Libre Open Source Software communities .
+		  [<a href=\"http://cress.soc.surrey.ac.uk/web/publications/working-papers/talk-silver-code-gold-contribution-beyond-source-code-freelibre-open\">Working paper</a>], [Source (LaTeX)].<br /> 
+        <b>Peer-reviewed conference papers, proceedings and abstracts:</b> <br />
         - Rozas, D., Gilbert, N. & Hodkinson, P. (2015b). <a href=\"http://www.egosnet.org/jart/prj3/egos/main.jart?rel=de&reserve-mode=active&content-id=1392376003637&subtheme_id=1368705967560\">Drupal as a runaway object: conceptualisation of peer production activities through Activity Theory</a>. EGOS (European Group for Organizational Studies) 2015 (Athens, 04/07/2015).
 		  [<a href=\"publications/egos2015_full_paper_drupal_at.pdf\">PDF</a>], [<a href=\"https://github.com/drozas/egos_2015\">Source (LaTeX)</a>].<br />
 	    - Rozas, D., Gilbert, N. & Hodkinson, P. (2015). <a href=\"http://www.britsoc.co.uk/media/84184/Programme%20full.pdf?1427305668398\">Contribution beyond source code in Free/Libre
