@@ -8,9 +8,10 @@
 	//drozas: Process publications as a list, and in a single language
 	$work_and_education = "
         <b>Current positions:</b> <br />
-        - 2013 ~ 2016 (expected): PhD candidate, University of Surrey<br />
+        - 2013 ~ 2017 (expected): PhD candidate, University of Surrey<br />
 	    - 2013 ~ present: Posgraduate researcher, Centre for Research in Social Simulation (University of Surrey), FP7 EU <a href=\"http://www.p2pvalue.eu\" target=\"_blank\"> P2Pvalue</a><br />
-
+	    - 2015 ~ present: Teaching assistant (SOC2029 - Survey Research), University of Surrey<br />
+			
 	    <b>Previous positions</b> <br />
 	    - 2012 ~ 2013: Research assistant, Centre for Research in Social Simulation (University of Surrey), FP7 EU <a href=\"http://www.qlectives.eu\" target=\"_blank\">QLectives</a><br />
 	    - 2010 ~ 2012: Project Manager & Drupal developer, <a href=\"http://www.educatic.es\" target=\"_blank\">Educatic</a><br />
