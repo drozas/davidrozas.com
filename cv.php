@@ -37,7 +37,7 @@
           (Berlin, 26/08/2014). [<a href=\"publications/drupal_cbpp_opensym2014.pdf\">PDF</a>], [<a href=\"publications/drupal_cbpp_opensym2014.odp\">Source (ODP)</a>]<br />
 
 	    <b>Keynote speaker (seminars, unconferences, non-academic events, etc.):</b> <br />
-	    - <a href=\"https://events.drupal.org/barcelona2015/sessions/talk-silver-code-gold-contribution-beyond-source-code-drupal\">Talk is silver, code is gold? Contribution beyond source code in Drupal</a>, DrupalCon Europe 2015
+	    - <a href=\"https://events.drupal.org/barcelona2015/community-keynotes\">Talk is silver, code is gold? Contribution beyond source code in Drupal</a>, DrupalCon Europe 2015
 	      (Barcelona, 24/09/2015). [<a href=\"publications/drupalcon_bcn_2015.pdf\">PDF</a>], [<a href=\"publications/drupalcon_bcn_2015.odp\">Source (ODP) </a>], [<a href=\"https://www.youtube.com/watch?v=TdEVaOjL20s\" target=\"_blank\">Video</a>]
 			  <br /> Reviews at blog posts from the community: [<a href=\"http://purkiss.com/blog/steve-purkiss/2015/09/25/remote-drupalcon-day-3\">1</a>], [<a href=\"http://www.amazeelabs.com/en/blog/dc-barcelona-day-4\">2</a>], 
 			 [<a href=\"http://hodges-model.blogspot.co.uk/2015/09/drupalcon-barcelona-researching-code.html\">3</a>], [<a href=\"http://www.wunderkraut.com/blog/drupalcon-barcelona-what-happened-and-what-to-watch/2015-10-01\">4</a>], 
