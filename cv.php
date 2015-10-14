@@ -39,7 +39,10 @@
 	    <b>Keynote speaker (seminars, unconferences, non-academic events, etc.):</b> <br />
 	    - <a href=\"https://events.drupal.org/barcelona2015/sessions/talk-silver-code-gold-contribution-beyond-source-code-drupal\">Talk is silver, code is gold? Contribution beyond source code in Drupal</a>, DrupalCon Europe 2015
 	      (Barcelona, 24/09/2015). [<a href=\"publications/drupalcon_bcn_2015.pdf\">PDF</a>], [<a href=\"publications/drupalcon_bcn_2015.odp\">Source (ODP) </a>], [<a href=\"https://www.youtube.com/watch?v=TdEVaOjL20s\" target=\"_blank\">Video</a>]
-			  <br /> Reviews at blog posts from the community: [<a href=\"http://purkiss.com/blog/steve-purkiss/2015/09/25/remote-drupalcon-day-3\">1</a>]<br />
+			  <br /> Reviews at blog posts from the community: [<a href=\"http://purkiss.com/blog/steve-purkiss/2015/09/25/remote-drupalcon-day-3\">1</a>], [<a href=\"http://www.amazeelabs.com/en/blog/dc-barcelona-day-4\">2</a>], 
+			 [<a href=\"http://hodges-model.blogspot.co.uk/2015/09/drupalcon-barcelona-researching-code.html\">3</a>], [<a href=\"http://www.wunderkraut.com/blog/drupalcon-barcelona-what-happened-and-what-to-watch/2015-10-01\">4</a>], 
+			 [<a href=\"http://www.reallifedigital.com/blog/we-went-drupalcon-2015-barcelona\">5</a>], [<a href=\"http://www.cocomore.com/blog/barcelona-con-jsbalsera-point-view\">6</a>], 
+			 [<a href=\"http://ymbra.com/es/blog/our-experience-drupalcon-barcelona-2015\">7</a>]<br />
 	    - <a href=\"http://drupalcampnorth.org/session/keynote-talk-silver-code-gold-contribution-beyond-source-code-drupal\">Talk is silver, code is gold? Contribution beyond source code in Drupal</a>, DrupalCamp North 2015
 	      (Sunderland, 25/07/2015). [<a href=\"publications/drupalcampnorth_2015.pdf\">PDF</a>], [<a href=\"publications/drupalcampnorth_2015.odp\">Source (ODP)</a>]
 			  <br /> Reviews at blog posts from the community: [<a href=\"https://microserve.io/blogs/drupalcamp-north-2015\">1</a>], [<a href=\"http://www.hashbangcode.com/blog/drupalcamp-north-2015-review\">2</a>],
