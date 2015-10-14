@@ -73,6 +73,7 @@
 
 	    <b>Media:</b> <br />
 	    - 2015:<br />
+			-- Interview about the first stage of my PhD research at Drupal Easy podcast: \"#163 - Drupal Potato (David Rozas, Open-source contributing)\" [<a href=\"http://drupaleasy.com/podcast/2015/10/drupaleasy-podcast-163-drupal-potato-david-rozas-open-source-contributing\" target=\"_blank\">Link</a>]<br />
 			-- Interview about the P2Pvalue project at CORDIS (Community Research and Development Information Service) [<a href=\"http://cordis.europa.eu/news/rcn/123585_en.html\" target=\"_blank\">Link</a>]<br />
 			-- Personal interview in Universidad Rey Juan Carlos' Alumni Magazine (pp. 10-15) [<a href=\"http://www.unipedia.es/urjc/alumni/RevistaN12/\" target=\"_blank\">Link</a>]<br />
 	    - 2014: Article about the CBPP directory in WIRED magazine [<a href=\"http://www.wired.com/2014/03/directory-commons-based-peer-production/\" target=\"_blank\">Link</a>]<br />
